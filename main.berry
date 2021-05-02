@@ -1,3 +1,9 @@
+import 'github:minibox24/berrylang-test@config'
+
+func getConfig() {
+  return config.value
+}
+
 func testFunc() {
   return "Hello, World!"
 }

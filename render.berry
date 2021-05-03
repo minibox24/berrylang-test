@@ -1,0 +1,16 @@
+func render(map, default, emojis) {
+  content = ""
+
+  foreach(row in map) {
+    foreach(column in list(row)) {
+      if (emojis.has(column)) {
+        content += emojis[column]
+      } else {
+        content += default
+      }
+    }
+    content += "\n"
+  }
+
+  return content
+}

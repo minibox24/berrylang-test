@@ -1,0 +1,3 @@
+import 'github:minibox24/berrylang.test@t1'
+
+a = 1

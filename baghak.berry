@@ -1,1 +1,5 @@
-func getBaghakdorungInfo() { return { "is모솔": true } }
+func getBaghakdorungInfo() {
+  return {
+    "is모솔": true
+  }
+}

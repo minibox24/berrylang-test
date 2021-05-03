@@ -1,5 +1,3 @@
 func getBaghakdorungInfo() {
-  return {
-    "is모솔": true
-  }
+  return { "is모솔": true }
 }

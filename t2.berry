@@ -1,3 +1,3 @@
-import 'github:minibox24/berrylang.test@t1'
+import 'github:minibox24/berrylang.test@t1.berry'
 
 a = 1

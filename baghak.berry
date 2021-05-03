@@ -1,0 +1,5 @@
+func getBaghakdorungInfo() {
+  return {
+    "is모솔": true
+  }
+}
